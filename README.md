@@ -1,4 +1,4 @@
-# Forecasting the Citi Bike demand in NYC
+# Forecasting the Citi Bike demand in NYC [in progress]
 
 **Introduction**
 
